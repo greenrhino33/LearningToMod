@@ -1,0 +1,21 @@
+[
+{
+  "modid": "LearningToMod",
+  "name": "LearningToMod",
+  "description": "Learning how to mod by greenrhino33",
+  "version": "1.0.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "greenrhino33"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
