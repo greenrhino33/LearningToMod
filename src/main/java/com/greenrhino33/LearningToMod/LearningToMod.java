@@ -7,9 +7,8 @@ import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 
-@Mod(modid="LearningToMod", name="Learning To Mod", version="1.7.10-1.0.0")
-public class LearningToMod
-{
+@Mod(modid = "LearningToMod", name = "Learning To Mod", version = "1.7.10-1.0.0")
+public class LearningToMod {
 
     @Mod.Instance("LearningToMod")
     public static LearningToMod instance;
@@ -18,20 +17,17 @@ public class LearningToMod
     public static IProxy proxy;
 
     @Mod.EventHandler
-    public void preInit(FMLPreInitializationEvent event)
-    {
+    public void preInit(FMLPreInitializationEvent event) {
 
     }
 
     @Mod.EventHandler
-    public void Init(FMLInitializationEvent event)
-    {
+    public void Init(FMLInitializationEvent event) {
 
     }
 
     @Mod.EventHandler
-    public void postInit(FMLPostInitializationEvent event)
-    {
+    public void postInit(FMLPostInitializationEvent event) {
 
     }
 }
